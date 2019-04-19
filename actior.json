@@ -2,86 +2,92 @@
     {
         "id": "1",
         "list": [
-            {"id": "1","title": "林俊杰","imgurl": "https://i1.hdslb.com/bfs/archive/fbb28c1a87980a16beb8391c41c145102913415d.jpg","face": "94.5万粉丝","howlong": "JJ 林俊杰《圣所2.0》世界巡回演唱会 厦门站"
+            {"id": "1","title": "林俊杰","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647208675&di=867c4f4818ccf2a4f9a2ef48fd3edc9d&imgtype=0&src=http%3A%2F%2Fpic.eastlady.cn%2Fuploads%2Ftp%2F201705%2F9999%2F5eec6d8bee.jpg","imgurl": "https://i1.hdslb.com/bfs/archive/fbb28c1a87980a16beb8391c41c145102913415d.jpg","face": "94.5万粉丝","howlong": "JJ 林俊杰《圣所2.0》世界巡回演唱会 厦门站"
             },
-            {"id": "2","title": " 薛之谦","imgurl": "https://i1.hdslb.com/bfs/archive/96ccf5eba877e3e5add497844a5bc71ac0170257.jpg","face": "53.8万粉丝","howlong": "薛之谦《摩天大楼》世界巡迴演唱会香港站"
+            {"id": "2","title": " 薛之谦","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647405258&di=012ad50ae242b6dbd276b77b373ce80b&imgtype=0&src=http%3A%2F%2Fs13.sinaimg.cn%2Fmw690%2F003nJbsbzy7aZsmPN8g4c%26690","imgurl": "https://i1.hdslb.com/bfs/archive/96ccf5eba877e3e5add497844a5bc71ac0170257.jpg","face": "53.8万粉丝","howlong": "薛之谦《摩天大楼》世界巡迴演唱会香港站"
             },
-            {"id": "3","title": "陈奕迅","imgurl": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01jX68db2GdS9lp5ADP_!!0-item_pic.jpg","face": "35万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
+            {"id": "3","title": "陈奕迅","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647457591&di=b814d81caa1a75d5735c45039122d1e1&imgtype=0&src=http%3A%2F%2Fwww.dzwww.com%2Fyule%2Fyulezhuanti%2Fmtcbg%2F201405%2FW020140508334086183793.jpg","imgurl": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01jX68db2GdS9lp5ADP_!!0-item_pic.jpg","face": "35万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
             },
-            {"id": "4","title": "张杰","imgurl": "https://img01.sogoucdn.com/app/a/100520093/e04c7125b3330163-ac55908cd98fcad8-9df191a67c9f511e756a8c74f2be2b15.jpg","face": "30.4万粉丝","howlong": "2019张杰【未·LIVE】巡回演唱会 福州站"
+            {"id": "4","title": "张杰","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647488566&di=3d5da6582fdccaa1527ba17d4ecb0276&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20169_19_10%2Fa86sir9768210422855.jpg","imgurl": "https://img4.duitang.com/uploads/item/201605/01/20160501220449_BcfvX.png","face": "30.4万粉丝","howlong": "2019张杰【未·LIVE】巡回演唱会 福州站"
             },
-            {"id": "5","title": "张云雷","imgurl": "https://5b0988e595225.cdn.sohucs.com/images/20171011/175daf5231414c92a63769c5c2c97d95.jpeg","face": "24.5万粉丝","howlong": "【石家庄站】云起雷鸣张云雷杨九郎相声专场-石家庄"
+            {"id": "5","title": "张云雷","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647514436&di=54285be8ed856c4de351a5e3753de72c&imgtype=0&src=http%3A%2F%2F03imgmini.eastday.com%2Fmobile%2F20180915%2Fd5a34fdf20cde9dbbb58e72efa9be088_wmk.jpeg","imgurl": "https://5b0988e595225.cdn.sohucs.com/images/20171011/175daf5231414c92a63769c5c2c97d95.jpeg","face": "24.5万粉丝","howlong": "【石家庄站】云起雷鸣张云雷杨九郎相声专场-石家庄"
             },
-            {"id": "6","title": " 华晨宇","imgurl": "https://img03.sogoucdn.com/app/a/100520093/3c28af542f2d49f7-44af7693092324ab-703a07e828fb2ebd29260442b2239e44.jpg","face": "17.8万粉丝","howlong": "2019上海滴水湖阳光音乐节"
+            {"id": "6","title": " 华晨宇","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647548138&di=5ce2435b211dfdedd75d00a6c28a8e95&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D1575747444%2C3394800188%26fm%3D214%26gp%3D0.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/3c28af542f2d49f7-44af7693092324ab-703a07e828fb2ebd29260442b2239e44.jpg","face": "17.8万粉丝","howlong": "2019上海滴水湖阳光音乐节"
             },
-            {"id": "7","title": "李建","imgurl": "https://photocdn.sohu.com/20170307/Img482602891.jpg","face": "16.0万粉丝","howlong": "李健，1981年10月29日出生于河北，中国内地男演员。[1]2010年，凭借在热播剧《永不磨灭的番号》中对孙成海一角而被全国观众所熟知"
+            {"id": "7","title": "李建","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647582476&di=3d26e7db6914fcd898cc5467ca38f89c&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffront%2F480%2Fw1280h800%2F20181130%2FJwjq-hpfyces8781258.jpg","imgurl": "https://photocdn.sohu.com/20170307/Img482602891.jpg","face": "16.0万粉丝","howlong": "李健，1981年10月29日出生于河北，中国内地男演员。[1]2010年，凭借在热播剧《永不磨灭的番号》中对孙成海一角而被全国观众所熟知"
             },
-            {"id": "8","title": "林宥嘉","imgurl": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01UuifXw2GdS9lke9Ic_!!0-item_pic.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "8","title": "林宥嘉","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647603936&di=376f3d08f76050df9eb6622b616dbb84&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F494cf8edadf0fc07a21a09b3bebfd64224d5ce5f.jpg","imgurl": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01UuifXw2GdS9lke9Ic_!!0-item_pic.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "9","title": "邓紫棋","imgurl": "https://img.idol001.com/origin/2016/01/18/93849b17661781ec888372ff094a3dc21453086684.jpg","face": "10.6万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
+            {"id": "9","title": "邓紫棋","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647624924&di=d98bd067491c1bac1c90c721ab14a7e3&imgtype=0&src=http%3A%2F%2Fdingyue.nosdn.127.net%2FqNQKwjcKanBEnxj4H2Sjpo7ttNA3X1NBmiGSTJsx8l9Vk1552176279542compressflag.jpeg","imgurl": "https://img.idol001.com/origin/2016/01/18/93849b17661781ec888372ff094a3dc21453086684.jpg","face": "10.6万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
             },
-            {"id": "10","title": "王力宏","imgurl": "https://img00.hc360.com/home/201111/201111081549243143.jpg","face": "10.5万粉丝","howlong": "王力宏“龙的传人2060”世界巡回演唱会-徐州站"
+            {"id": "10","title": "王力宏","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647685832&di=9ee1f9df92e7b95dc7531b51b1499c82&imgtype=0&src=http%3A%2F%2Fimg.mp.sohu.com%2Fq_mini%2Cc_zoom%2Cw_640%2Fupload%2F20170707%2F12b8f54602cd4cf397c1fd83e8e85c9f_th.jpg","imgurl": "https://img00.hc360.com/home/201111/201111081549243143.jpg","face": "10.5万粉丝","howlong": "王力宏“龙的传人2060”世界巡回演唱会-徐州站"
             },
-            {"id": "11","title": "李荣浩","imgurl": "https://file.juzimi.com/category_pictures/201411/lironghaojingdianyulu71120.jpg","face": "9.2万粉丝","howlong": "李荣浩 【年少有为】世界巡回演唱会-南京站"
+            {"id": "11","title": "李荣浩","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647763949&di=3ff216159bd80b8276dc99bb8ff9fcb0&imgtype=0&src=http%3A%2F%2Fs11.sinaimg.cn%2Fmw690%2F003JkUy6gy6RAuJxmfEaa%26690","imgurl": "https://file.juzimi.com/category_pictures/201411/lironghaojingdianyulu71120.jpg","face": "9.2万粉丝","howlong": "李荣浩 【年少有为】世界巡回演唱会-南京站"
             },
-            {"id": "12","title": "吴亦凡","imgurl": "https://news.cnhubei.com/xw/yl/201405/W020140523410799372020.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "12","title": "吴亦凡","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647790709&di=3e7840bb73736c597e671c6d5a7f555e&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Fdadd0483ee88733d612c72998f6251ada52ed8d2.jpg","imgurl": "https://news.cnhubei.com/xw/yl/201405/W020140523410799372020.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "13","title": "许嵩","imgurl": "https://p4.music.126.net/7M96z-ilGIKniyXH70ElYg==/1398578796353884.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "13","title": "许嵩","pose":"https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/imgad/pic/item/29381f30e924b89914e91b3366061d950b7bf6e0.jpg","imgurl": "https://p4.music.126.net/7M96z-ilGIKniyXH70ElYg==/1398578796353884.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "14","title": "周柏豪","imgurl": "https://www.5djiaren.com/uploads/2015-10/27-121051_634.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "14","title": "周柏豪","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647870518&di=95cf5d2d23664474ddd496d50c355834&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F14%2F20150314235212_82f85.thumb.700_0.jpeg","imgurl": "https://www.5djiaren.com/uploads/2015-10/27-121051_634.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "15","title": "赵雷","imgurl": "https://n.sinaimg.cn/sinacn/20170504/fad4-fyeyqek8494784.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "15","title": "赵雷","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647926539&di=48c87a9708af12b4368ca5dd02f16a09&imgtype=0&src=http%3A%2F%2Fzximg.ingping.com%2Fueditor%2Fjsp%2Fupload%2F201704%2F201704281130530843278.jpg","imgurl": "https://n.sinaimg.cn/sinacn/20170504/fad4-fyeyqek8494784.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "16","title": "孟鹤堂","imgurl": "https://img.mp.itc.cn/upload/20170407/cb62484eef1a4c9cb09116226ed27c25_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "16","title": "孟鹤堂","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647982681&di=a0954519905b84eac465dc1c2757c699&imgtype=0&src=http%3A%2F%2Fm.iqiyipic.com%2Fu3%2Fimage%2F20180916%2F0f%2F75%2Fuv_5031213310_m_601_720_405.jpg","imgurl": "https://img.mp.itc.cn/upload/20170407/cb62484eef1a4c9cb09116226ed27c25_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "17","title": "郭德纲","imgurl": "https://i1.hdslb.com/bfs/archive/8b48b21a17e15bf80c43fe5a82fa523c5c09557a.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "17","title": "郭德纲","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648041563&di=eef7b287d73d5f1131c927e6e5b0cb5c&imgtype=0&src=http%3A%2F%2Fimg04.hc360.com%2Fmachine%2F201609%2F201609061653101923.jpg","imgurl": "https://i1.hdslb.com/bfs/archive/8b48b21a17e15bf80c43fe5a82fa523c5c09557a.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "18","title": "岳云鹏","imgurl": "https://i03piccdn.sogoucdn.com/7b83acf3552cdb93","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "18","title": "岳云鹏","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648124740&di=67320117a06aa3508419ce862dc68473&imgtype=0&src=http%3A%2F%2Fimg2.cache.netease.com%2Fent%2F2014%2F11%2F10%2F2014111009144871c34_550.png","imgurl": "https://i03piccdn.sogoucdn.com/7b83acf3552cdb93","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "19","title": "许嵩","imgurl": "https://i4.hunantv.com/p1/20120618/1029401458.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "19","title": "许嵩","pose":"https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/imgad/pic/item/9f510fb30f2442a750999faed943ad4bd1130221.jpg","imgurl": "https://i4.hunantv.com/p1/20120618/1029401458.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "20","title": "莫文蔚","imgurl": "https://p3.music.126.net/9pnKfAdVM9Fl6K9mi5c2AA==/18746673254996707.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "20","title": "莫文蔚","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648202924&di=5571bb166e6379c72fb343731e43f5d1&imgtype=0&src=http%3A%2F%2Fi5.qhimg.com%2Ft01d249456c0d84a850.png","imgurl": "https://p3.music.126.net/9pnKfAdVM9Fl6K9mi5c2AA==/18746673254996707.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "21","title": "毛不易","imgurl": "https://i04piccdn.sogoucdn.com/5c940d2dcc2a9600","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "21","title": "毛不易","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648265467&di=0e53aabda0ffd7eed41306319ecb0b60&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffront%2F492%2Fw1920h972%2F20190404%2FEQ_C-hvhrcxk7225732.jpg","imgurl": "https://i04piccdn.sogoucdn.com/5c940d2dcc2a9600","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "20","title": "房东的猫","imgurl": "https://img.mp.itc.cn/upload/20170411/a023f0f45d7c48dea6c017b08999897f_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "20","title": "房东的猫","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648288071&di=259b5b1a43f605814421198bfa5da55b&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Flarge%2F0061kJ30ly1fvlpgzyrs4j30gm09c127.jpg","imgurl": "https://img.mp.itc.cn/upload/20170411/a023f0f45d7c48dea6c017b08999897f_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "22","title": "李宗盛","imgurl": "https://img03.sogoucdn.com/app/a/100520093/f6101046a06a8dcd-32db65d3978ff67c-5308bc104fde2a5e33f33fc77ce60c69.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "22","title": "李宗盛","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648319587&di=2a34bb3e059f80adb5ee399671239098&imgtype=0&src=http%3A%2F%2Fy2.ifengimg.com%2Fefa49c66edc058ef%2F2015%2F0206%2Frdn_54d478a1ec426.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/f6101046a06a8dcd-32db65d3978ff67c-5308bc104fde2a5e33f33fc77ce60c69.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "23","title": "陈粒","imgurl": "https://img.mp.itc.cn/upload/20160708/65daff2629f74633b65483e7f6f7f0c7_th.png","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "23","title": "陈粒","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648364844&di=d4962510179d93e8bccab0a97a9998aa&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171012%2F8aaaf8bfad114d80b259f068c5b25b93.jpeg","imgurl": "https://img.mp.itc.cn/upload/20160708/65daff2629f74633b65483e7f6f7f0c7_th.png","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "24","title": "朴树","imgurl": "https://p4.music.126.net/NvSyZwpFOJHv_UkUjfSlAw==/18959978509574191.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "24","title": "朴树","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648394521&di=3fdc028502cfe001c52eacf8bf8e60d6&imgtype=0&src=http%3A%2F%2Fimg.jammyfm.com%2Fwordpress%2Fwp-content%2Fuploads%2F2016%2F09%2F201609291413114987-720x480.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cw_720%2Ch_480%2Cm_fill%2Climit_0","imgurl": "https://p4.music.126.net/NvSyZwpFOJHv_UkUjfSlAw==/18959978509574191.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "25","title": "张信哲","imgurl": "https://img1.gtimg.com/lady/pics/22093/22093590.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "25","title": "张信哲","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648415373&di=20710790915a8c269ebe1ca5a8cfd49f&imgtype=0&src=http%3A%2F%2Fwx.120askimages.com%2Fupload%2Fxingzuo%2F13694700877067.jpg","imgurl": "https://img1.gtimg.com/lady/pics/22093/22093590.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "26","title": "萧敬腾","imgurl": "https://s.wasu.tv/mrms/manage/images/201509/21/55ff8005d6675.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "26","title": "萧敬腾","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648481376&di=e8abe69de9e9494300c038dbe165bdff&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20165_3_9%2Fa1ustv8365730457855.jpg","imgurl": "https://s.wasu.tv/mrms/manage/images/201509/21/55ff8005d6675.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "27","title": "张敬轩","imgurl": "https://i03piccdn.sogoucdn.com/c4086109f8d3b3c0","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "27","title": "张敬轩","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648515532&di=e0b8390c2bf407a88d731f9521a33bbe&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F05%2F20180505102605_SCFs4.jpeg","imgurl": "https://i03piccdn.sogoucdn.com/c4086109f8d3b3c0","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "28","title": "陈绮贞","imgurl": "https://cw1.tw/CC/images/article/J1435024572824.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "28","title": "陈绮贞","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648540092&di=3b519fe7ac95b6b980b02b2c056c715d&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180801%2F2ea10693d7e64b24ae75014d765d1f73.jpeg","imgurl": "https://cw1.tw/CC/images/article/J1435024572824.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "29","title": "莫文蔚","imgurl": "https://img03.sogoucdn.com/app/a/100520093/18b802f0eb835f7e-f90693c95e6a93be-31c2ee79c62635870af83d8ceb61f4b8.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "29","title": "莫文蔚","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556243321&di=291403107f25bdb7ca7310b3fe6206c2&imgtype=jpg&er=1&src=http%3A%2F%2Fimg00.hc360.com%2Fprinting%2F201608%2F201608111122333177.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/18b802f0eb835f7e-f90693c95e6a93be-31c2ee79c62635870af83d8ceb61f4b8.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "30","title": "谭咏麟","imgurl": "https://img04.sogoucdn.com/app/a/100520093/37b7a607988a6ac4-dc0ee7b7e74a723f-fd5b3aac5b30067059662407f6d4ffbe.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "30","title": "谭咏麟","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648666267&di=ee3b91c51dc3c5e439d8c952750c4b7a&imgtype=0&src=http%3A%2F%2Ftp-y.zdmimg.com%2F201703%2F16%2F58c9e733028804540.jpg_e600.jpg","imgurl": "https://img04.sogoucdn.com/app/a/100520093/37b7a607988a6ac4-dc0ee7b7e74a723f-fd5b3aac5b30067059662407f6d4ffbe.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             }
         ]
     },
     {
         "id": "2",
         "list": [
-            {"id": "1","title": "林俊杰","imgurl": "https://i1.hdslb.com/bfs/archive/fbb28c1a87980a16beb8391c41c145102913415d.jpg","face": "94.5万粉丝","howlong": "JJ 林俊杰《圣所2.0》世界巡回演唱会 厦门站"
+            {"id": "20","title": "房东的猫","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648288071&di=259b5b1a43f605814421198bfa5da55b&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Flarge%2F0061kJ30ly1fvlpgzyrs4j30gm09c127.jpg","imgurl": "https://img.mp.itc.cn/upload/20170411/a023f0f45d7c48dea6c017b08999897f_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "2","title": " 薛之谦","imgurl": "https://i1.hdslb.com/bfs/archive/96ccf5eba877e3e5add497844a5bc71ac0170257.jpg","face": "53.8万粉丝","howlong": "薛之谦《摩天大楼》世界巡迴演唱会香港站"
+            {"id": "22","title": "李宗盛","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648319587&di=2a34bb3e059f80adb5ee399671239098&imgtype=0&src=http%3A%2F%2Fy2.ifengimg.com%2Fefa49c66edc058ef%2F2015%2F0206%2Frdn_54d478a1ec426.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/f6101046a06a8dcd-32db65d3978ff67c-5308bc104fde2a5e33f33fc77ce60c69.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "3","title": "陈奕迅","imgurl": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01jX68db2GdS9lp5ADP_!!0-item_pic.jpg","face": "35万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
+            {"id": "23","title": "陈粒","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648364844&di=d4962510179d93e8bccab0a97a9998aa&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20171012%2F8aaaf8bfad114d80b259f068c5b25b93.jpeg","imgurl": "https://img.mp.itc.cn/upload/20160708/65daff2629f74633b65483e7f6f7f0c7_th.png","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "4","title": "张杰","imgurl": "https://img01.sogoucdn.com/app/a/100520093/e04c7125b3330163-ac55908cd98fcad8-9df191a67c9f511e756a8c74f2be2b15.jpg","face": "30.4万粉丝","howlong": "2019张杰【未·LIVE】巡回演唱会 福州站"
+            {"id": "24","title": "朴树","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648394521&di=3fdc028502cfe001c52eacf8bf8e60d6&imgtype=0&src=http%3A%2F%2Fimg.jammyfm.com%2Fwordpress%2Fwp-content%2Fuploads%2F2016%2F09%2F201609291413114987-720x480.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cw_720%2Ch_480%2Cm_fill%2Climit_0","imgurl": "https://p4.music.126.net/NvSyZwpFOJHv_UkUjfSlAw==/18959978509574191.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "5","title": "张云雷","imgurl": "https://5b0988e595225.cdn.sohucs.com/images/20171011/175daf5231414c92a63769c5c2c97d95.jpeg","face": "24.5万粉丝","howlong": "【石家庄站】云起雷鸣张云雷杨九郎相声专场-石家庄"
+            {"id": "25","title": "张信哲","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648415373&di=20710790915a8c269ebe1ca5a8cfd49f&imgtype=0&src=http%3A%2F%2Fwx.120askimages.com%2Fupload%2Fxingzuo%2F13694700877067.jpg","imgurl": "https://img1.gtimg.com/lady/pics/22093/22093590.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "6","title": " 华晨宇","imgurl": "https://img03.sogoucdn.com/app/a/100520093/3c28af542f2d49f7-44af7693092324ab-703a07e828fb2ebd29260442b2239e44.jpg","face": "17.8万粉丝","howlong": "2019上海滴水湖阳光音乐节"
+            {"id": "26","title": "萧敬腾","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648481376&di=e8abe69de9e9494300c038dbe165bdff&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20165_3_9%2Fa1ustv8365730457855.jpg","imgurl": "https://s.wasu.tv/mrms/manage/images/201509/21/55ff8005d6675.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "7","title": "李建","imgurl": "https://photocdn.sohu.com/20170307/Img482602891.jpg","face": "16.0万粉丝","howlong": "李健，1981年10月29日出生于河北，中国内地男演员。[1]2010年，凭借在热播剧《永不磨灭的番号》中对孙成海一角而被全国观众所熟知"
+            {"id": "27","title": "张敬轩","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648515532&di=e0b8390c2bf407a88d731f9521a33bbe&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201805%2F05%2F20180505102605_SCFs4.jpeg","imgurl": "https://i03piccdn.sogoucdn.com/c4086109f8d3b3c0","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            },
+            {"id": "28","title": "陈绮贞","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648540092&di=3b519fe7ac95b6b980b02b2c056c715d&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180801%2F2ea10693d7e64b24ae75014d765d1f73.jpeg","imgurl": "https://cw1.tw/CC/images/article/J1435024572824.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            },
+            {"id": "29","title": "莫文蔚","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556243321&di=291403107f25bdb7ca7310b3fe6206c2&imgtype=jpg&er=1&src=http%3A%2F%2Fimg00.hc360.com%2Fprinting%2F201608%2F201608111122333177.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/18b802f0eb835f7e-f90693c95e6a93be-31c2ee79c62635870af83d8ceb61f4b8.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            },
+            {"id": "30","title": "谭咏麟","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648666267&di=ee3b91c51dc3c5e439d8c952750c4b7a&imgtype=0&src=http%3A%2F%2Ftp-y.zdmimg.com%2F201703%2F16%2F58c9e733028804540.jpg_e600.jpg","imgurl": "https://img04.sogoucdn.com/app/a/100520093/37b7a607988a6ac4-dc0ee7b7e74a723f-fd5b3aac5b30067059662407f6d4ffbe.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             }
         ]
     },
@@ -107,56 +113,57 @@
     {
         "id": "4",
         "list": [
-            {"id": "15","title": "赵雷","imgurl": "https://n.sinaimg.cn/sinacn/20170504/fad4-fyeyqek8494784.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "15","title": "赵雷","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647926539&di=48c87a9708af12b4368ca5dd02f16a09&imgtype=0&src=http%3A%2F%2Fzximg.ingping.com%2Fueditor%2Fjsp%2Fupload%2F201704%2F201704281130530843278.jpg","imgurl": "https://n.sinaimg.cn/sinacn/20170504/fad4-fyeyqek8494784.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "16","title": "孟鹤堂","imgurl": "https://img.mp.itc.cn/upload/20170407/cb62484eef1a4c9cb09116226ed27c25_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "16","title": "孟鹤堂","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647982681&di=a0954519905b84eac465dc1c2757c699&imgtype=0&src=http%3A%2F%2Fm.iqiyipic.com%2Fu3%2Fimage%2F20180916%2F0f%2F75%2Fuv_5031213310_m_601_720_405.jpg","imgurl": "https://img.mp.itc.cn/upload/20170407/cb62484eef1a4c9cb09116226ed27c25_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "17","title": "郭德纲","imgurl": "https://i1.hdslb.com/bfs/archive/8b48b21a17e15bf80c43fe5a82fa523c5c09557a.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "17","title": "郭德纲","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648041563&di=eef7b287d73d5f1131c927e6e5b0cb5c&imgtype=0&src=http%3A%2F%2Fimg04.hc360.com%2Fmachine%2F201609%2F201609061653101923.jpg","imgurl": "https://i1.hdslb.com/bfs/archive/8b48b21a17e15bf80c43fe5a82fa523c5c09557a.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "18","title": "岳云鹏","imgurl": "https://i03piccdn.sogoucdn.com/7b83acf3552cdb93","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "18","title": "岳云鹏","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648124740&di=67320117a06aa3508419ce862dc68473&imgtype=0&src=http%3A%2F%2Fimg2.cache.netease.com%2Fent%2F2014%2F11%2F10%2F2014111009144871c34_550.png","imgurl": "https://i03piccdn.sogoucdn.com/7b83acf3552cdb93","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "19","title": "许嵩","imgurl": "https://i4.hunantv.com/p1/20120618/1029401458.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "19","title": "许嵩","pose":"https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/imgad/pic/item/9f510fb30f2442a750999faed943ad4bd1130221.jpg","imgurl": "https://i4.hunantv.com/p1/20120618/1029401458.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "20","title": "莫文蔚","imgurl": "https://p3.music.126.net/9pnKfAdVM9Fl6K9mi5c2AA==/18746673254996707.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "20","title": "莫文蔚","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648202924&di=5571bb166e6379c72fb343731e43f5d1&imgtype=0&src=http%3A%2F%2Fi5.qhimg.com%2Ft01d249456c0d84a850.png","imgurl": "https://p3.music.126.net/9pnKfAdVM9Fl6K9mi5c2AA==/18746673254996707.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "21","title": "毛不易","imgurl": "https://i04piccdn.sogoucdn.com/5c940d2dcc2a9600","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "21","title": "毛不易","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555648265467&di=0e53aabda0ffd7eed41306319ecb0b60&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffront%2F492%2Fw1920h972%2F20190404%2FEQ_C-hvhrcxk7225732.jpg","imgurl": "https://i04piccdn.sogoucdn.com/5c940d2dcc2a9600","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             }
         ]
     },
     {
         "id": "5",
         "list": [
-            {"id": "16","title": "孟鹤堂","imgurl": "https://img.mp.itc.cn/upload/20170407/cb62484eef1a4c9cb09116226ed27c25_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "8","title": "林宥嘉","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647603936&di=376f3d08f76050df9eb6622b616dbb84&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F494cf8edadf0fc07a21a09b3bebfd64224d5ce5f.jpg","imgurl": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01UuifXw2GdS9lke9Ic_!!0-item_pic.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "17","title": "郭德纲","imgurl": "https://i1.hdslb.com/bfs/archive/8b48b21a17e15bf80c43fe5a82fa523c5c09557a.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "9","title": "邓紫棋","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647624924&di=d98bd067491c1bac1c90c721ab14a7e3&imgtype=0&src=http%3A%2F%2Fdingyue.nosdn.127.net%2FqNQKwjcKanBEnxj4H2Sjpo7ttNA3X1NBmiGSTJsx8l9Vk1552176279542compressflag.jpeg","imgurl": "https://img.idol001.com/origin/2016/01/18/93849b17661781ec888372ff094a3dc21453086684.jpg","face": "10.6万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
             },
-            {"id": "18","title": "岳云鹏","imgurl": "https://i03piccdn.sogoucdn.com/7b83acf3552cdb93","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "10","title": "王力宏","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647685832&di=9ee1f9df92e7b95dc7531b51b1499c82&imgtype=0&src=http%3A%2F%2Fimg.mp.sohu.com%2Fq_mini%2Cc_zoom%2Cw_640%2Fupload%2F20170707%2F12b8f54602cd4cf397c1fd83e8e85c9f_th.jpg","imgurl": "https://img00.hc360.com/home/201111/201111081549243143.jpg","face": "10.5万粉丝","howlong": "王力宏“龙的传人2060”世界巡回演唱会-徐州站"
             },
-            {"id": "19","title": "许嵩","imgurl": "https://i4.hunantv.com/p1/20120618/1029401458.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "11","title": "李荣浩","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647763949&di=3ff216159bd80b8276dc99bb8ff9fcb0&imgtype=0&src=http%3A%2F%2Fs11.sinaimg.cn%2Fmw690%2F003JkUy6gy6RAuJxmfEaa%26690","imgurl": "https://file.juzimi.com/category_pictures/201411/lironghaojingdianyulu71120.jpg","face": "9.2万粉丝","howlong": "李荣浩 【年少有为】世界巡回演唱会-南京站"
             },
-            {"id": "20","title": "莫文蔚","imgurl": "https://p3.music.126.net/9pnKfAdVM9Fl6K9mi5c2AA==/18746673254996707.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "12","title": "吴亦凡","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647790709&di=3e7840bb73736c597e671c6d5a7f555e&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2Fdadd0483ee88733d612c72998f6251ada52ed8d2.jpg","imgurl": "https://news.cnhubei.com/xw/yl/201405/W020140523410799372020.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "21","title": "毛不易","imgurl": "https://i04piccdn.sogoucdn.com/5c940d2dcc2a9600","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "13","title": "许嵩","pose":"https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/imgad/pic/item/29381f30e924b89914e91b3366061d950b7bf6e0.jpg","imgurl": "https://p4.music.126.net/7M96z-ilGIKniyXH70ElYg==/1398578796353884.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
             },
-            {"id": "20","title": "房东的猫","imgurl": "https://img.mp.itc.cn/upload/20170411/a023f0f45d7c48dea6c017b08999897f_th.jpeg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "14","title": "周柏豪","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647870518&di=95cf5d2d23664474ddd496d50c355834&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F14%2F20150314235212_82f85.thumb.700_0.jpeg","imgurl": "https://www.5djiaren.com/uploads/2015-10/27-121051_634.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "list": [
+            {"id": "1","title": "林俊杰","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647208675&di=867c4f4818ccf2a4f9a2ef48fd3edc9d&imgtype=0&src=http%3A%2F%2Fpic.eastlady.cn%2Fuploads%2Ftp%2F201705%2F9999%2F5eec6d8bee.jpg","imgurl": "https://i1.hdslb.com/bfs/archive/fbb28c1a87980a16beb8391c41c145102913415d.jpg","face": "94.5万粉丝","howlong": "JJ 林俊杰《圣所2.0》世界巡回演唱会 厦门站"
             },
-            {"id": "22","title": "李宗盛","imgurl": "https://img03.sogoucdn.com/app/a/100520093/f6101046a06a8dcd-32db65d3978ff67c-5308bc104fde2a5e33f33fc77ce60c69.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "2","title": " 薛之谦","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647405258&di=012ad50ae242b6dbd276b77b373ce80b&imgtype=0&src=http%3A%2F%2Fs13.sinaimg.cn%2Fmw690%2F003nJbsbzy7aZsmPN8g4c%26690","imgurl": "https://i1.hdslb.com/bfs/archive/96ccf5eba877e3e5add497844a5bc71ac0170257.jpg","face": "53.8万粉丝","howlong": "薛之谦《摩天大楼》世界巡迴演唱会香港站"
             },
-            {"id": "23","title": "陈粒","imgurl": "https://img.mp.itc.cn/upload/20160708/65daff2629f74633b65483e7f6f7f0c7_th.png","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "3","title": "陈奕迅","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647457591&di=b814d81caa1a75d5735c45039122d1e1&imgtype=0&src=http%3A%2F%2Fwww.dzwww.com%2Fyule%2Fyulezhuanti%2Fmtcbg%2F201405%2FW020140508334086183793.jpg","imgurl": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01jX68db2GdS9lp5ADP_!!0-item_pic.jpg","face": "35万粉丝","howlong": "【限定】2019年追星福袋 大麦·境外"
             },
-            {"id": "24","title": "朴树","imgurl": "https://p4.music.126.net/NvSyZwpFOJHv_UkUjfSlAw==/18959978509574191.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "4","title": "张杰","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647488566&di=3d5da6582fdccaa1527ba17d4ecb0276&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20169_19_10%2Fa86sir9768210422855.jpg","imgurl": "https://img4.duitang.com/uploads/item/201605/01/20160501220449_BcfvX.png","face": "30.4万粉丝","howlong": "2019张杰【未·LIVE】巡回演唱会 福州站"
             },
-            {"id": "25","title": "张信哲","imgurl": "https://img1.gtimg.com/lady/pics/22093/22093590.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "5","title": "张云雷","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647514436&di=54285be8ed856c4de351a5e3753de72c&imgtype=0&src=http%3A%2F%2F03imgmini.eastday.com%2Fmobile%2F20180915%2Fd5a34fdf20cde9dbbb58e72efa9be088_wmk.jpeg","imgurl": "https://5b0988e595225.cdn.sohucs.com/images/20171011/175daf5231414c92a63769c5c2c97d95.jpeg","face": "24.5万粉丝","howlong": "【石家庄站】云起雷鸣张云雷杨九郎相声专场-石家庄"
             },
-            {"id": "26","title": "萧敬腾","imgurl": "https://s.wasu.tv/mrms/manage/images/201509/21/55ff8005d6675.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "6","title": " 华晨宇","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647548138&di=5ce2435b211dfdedd75d00a6c28a8e95&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D1575747444%2C3394800188%26fm%3D214%26gp%3D0.jpg","imgurl": "https://img03.sogoucdn.com/app/a/100520093/3c28af542f2d49f7-44af7693092324ab-703a07e828fb2ebd29260442b2239e44.jpg","face": "17.8万粉丝","howlong": "2019上海滴水湖阳光音乐节"
             },
-            {"id": "27","title": "张敬轩","imgurl": "https://i03piccdn.sogoucdn.com/c4086109f8d3b3c0","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
-            },
-            {"id": "28","title": "陈绮贞","imgurl": "https://cw1.tw/CC/images/article/J1435024572824.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
-            },
-            {"id": "29","title": "莫文蔚","imgurl": "https://img03.sogoucdn.com/app/a/100520093/18b802f0eb835f7e-f90693c95e6a93be-31c2ee79c62635870af83d8ceb61f4b8.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
-            },
-            {"id": "30","title": "谭咏麟","imgurl": "https://img04.sogoucdn.com/app/a/100520093/37b7a607988a6ac4-dc0ee7b7e74a723f-fd5b3aac5b30067059662407f6d4ffbe.jpg","face": "14.7万粉丝","howlong": "林宥嘉《Idol》世界巡迴演唱會 - 香港站"
+            {"id": "7","title": "李建","pose":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555647582476&di=3d26e7db6914fcd898cc5467ca38f89c&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ffront%2F480%2Fw1280h800%2F20181130%2FJwjq-hpfyces8781258.jpg","imgurl": "https://photocdn.sohu.com/20170307/Img482602891.jpg","face": "16.0万粉丝","howlong": "李健，1981年10月29日出生于河北，中国内地男演员。[1]2010年，凭借在热播剧《永不磨灭的番号》中对孙成海一角而被全国观众所熟知"
             }
         ]
     }
